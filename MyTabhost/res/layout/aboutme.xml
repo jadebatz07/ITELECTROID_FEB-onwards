@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#4682b2"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="30dp"
+        android:text="About Me"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#fefefe"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:text="Jade Almer G. Batino"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#fefefe" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:text="BSIT - 4"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#fefefe" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:text="ITELECDROID 1 (TTH 7:30 am- 10:00am)"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#fefefe" />
+
+</LinearLayout>
